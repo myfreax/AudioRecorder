@@ -6,10 +6,11 @@ Sample app for AudioPlaybackCapture API, which allows applications to capture th
 
 ### Usage
 
-Tapping the "Capture audio" button on the UI will present two permission requests:
+Tapping the "Start Recording" button on the UI will present two permission requests:
  - [record audio permission](https://developer.android.com/reference/android/Manifest.permission#RECORD_AUDIO)
  - [media projection permission](https://developer.android.com/reference/android/media/projection/MediaProjectionManager#createScreenCaptureIntent())
 
+### Audio Format
 
  - Sample rate: 44100 Hz
  - channel: 1 channel(Mono)
