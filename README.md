@@ -2,7 +2,7 @@
 
 Sample app for AudioPlaybackCapture API, which allows applications to capture the audio of other applications.
 
-![Attribute setting effect](docs/Screenshot_20220303-163737.png)
+<img src="./docs/Screenshot_20220303-163737.png"  width=260px  />
 
 ### Usage
 
