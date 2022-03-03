@@ -1,4 +1,4 @@
-# AudioCaptureSample
+# AudioRecorder
 
 Sample app for AudioPlaybackCapture API, which allows applications to capture the audio of other applications.
 
