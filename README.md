@@ -18,7 +18,7 @@ Tapping the "Capture audio" button on the UI will present two permission request
 
 ### File Storage
 ```
-/storage/emulated/0/Android/data/com.myfreaax.audiorecorder/files/AudioCaptures/
+/storage/emulated/0/Android/data/com.myfreax.audiorecorder/files/AudioCaptures/
 ```
 
 You can then pull the file from the device and play the media back. Make sure you use a player that is capable of rendering raw PCM data (for example, on [Audacity](https://www.audacityteam.org/download/), you can `File > Import > Raw Data`).
